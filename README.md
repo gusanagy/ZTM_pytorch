@@ -6,11 +6,11 @@ Comecei esse curso em outubro de 2023 de forma gratuita pelo Youtube( [PyTorch f
 
 ## Conteúdo do Curso
 
-- [x] Introduction - 02/2023
-- [x] Fundamentals - 02/2023
-- [x] Workflow - 03/2023
-- [x] Neural Network Classification - 03/2023
-- [] Computer Vision - 03/2023 e ... fazendo
+- [x] Introduction - 02/2023 ✅
+- [x] Fundamentals - 02/2023 ✅
+- [x] Workflow - 03/2023 ✅
+- [x] Neural Network Classification - 03/2023 ✅
+- [ ] Computer Vision - 03/2023 e ... fazendo
 - [ ] Custom Datasets - 
 - [ ] Going Modular - 
 - [ ] Transfer Learning - 
