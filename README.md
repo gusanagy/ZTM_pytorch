@@ -1,4 +1,4 @@
-# ZTM PyTorch for Deep Learning & Machine Learning – Full Course
+/# ZTM PyTorch for Deep Learning & Machine Learning – Full Course
 
 ### Portugues
 Criei este repositorio para acompanhar meu progresso e salvar os scripts do curso de pytorch da ZTM. 
@@ -14,7 +14,8 @@ I started this course in October 2023 for free on YouTube ( [PyTorch for Deep Le
 - [x] Fundamentals - 02/2023 ✅
 - [x] Workflow - 03/2023 ✅
 - [x] Neural Network Classification - 03/2023 ✅
-- [ ] Computer Vision - 03/2023 e ... fazendo
+- [ ] Computer Vision - 03/2023 e ... in progress
+    - 9/34 
 - [ ] Custom Datasets - 
 - [ ] Going Modular - 
 - [ ] Transfer Learning - 
