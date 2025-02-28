@@ -1,4 +1,4 @@
-/# ZTM PyTorch for Deep Learning & Machine Learning – Full Course
+# ZTM PyTorch for Deep Learning & Machine Learning – Full Course
 
 ### Portugues
 Criei este repositorio para acompanhar meu progresso e salvar os scripts do curso de pytorch da ZTM. 
